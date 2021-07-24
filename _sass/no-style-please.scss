@@ -59,14 +59,14 @@ hr {
   &:after { content: attr(data-content) '/////' }
 }
 
-table { width: 120%; }
+table { width: 100%; }
 
 table, th, td {
   // border: thin solid black;
   border-collapse: collapse;
   padding: 0.4rem;
-    position: relative;
-  left: 10%;
+  // position: relative;
+  // left: 10%;
 }
 
 code {
