@@ -7,11 +7,9 @@ entries:
       - title: the photographs of Are Prob.
 
   - title: galleries
-    post_list:
-      limit: 50
-      show_more: false
-      show_more_text: See archive...
-      show_more_url: archive.html
+    entries:
+      title: plants
+      url: plants.md
 
   - title: "Site styled by <a href='https://riggraz.dev'>riggraz.dev</a>"
   
