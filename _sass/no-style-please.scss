@@ -62,12 +62,9 @@ hr {
 table { width: 120%; }
 
 table, th, td {
-  border: thin solid black;
+  // border: thin solid black;
   border-collapse: collapse;
-  // padding: 0.4rem;
-  padding: 5%;
-  position: relative;
-  left: 10%;
+  padding: 0.4rem;
 }
 
 code {
