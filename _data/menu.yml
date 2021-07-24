@@ -8,8 +8,8 @@ entries:
 
   - title: galleries
     entries:
-      title: plants
-      url: plants.md
+      - title: plants
+        url: plants.md
 
   - title: "Site styled by <a href='https://riggraz.dev'>riggraz.dev</a>"
   
