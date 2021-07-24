@@ -9,6 +9,8 @@ category: gallery
 \
 \
 \
+image 1 | image 2
+-----------------
 ![](/figures/Image-2.jpg) | ![](/figures/Image-3.jpg)
 \
 \
