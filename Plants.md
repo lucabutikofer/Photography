@@ -8,8 +8,6 @@ category: gallery
 \
 \
 \
-
-|Solarized dark             |  Solarized Ocean|
 |:-------------------------:|:-------------------------:|
 |![](/figures/Image-2.jpg) | ![](/figures/Image-3.jpg)|
 
