@@ -1,5 +1,4 @@
 ---
-title: "plants"
 layout: page
 category: gallery
 ---
