@@ -8,8 +8,10 @@ entries:
 
   - title: galleries
     entries:
+      - title: example page
+        url: about
       - title: plants
-        url: Plants.md
+        url: Plants
 
   - title: "Site styled by <a href='https://riggraz.dev'>riggraz.dev</a>"
   
