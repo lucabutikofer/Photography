@@ -8,8 +8,6 @@ entries:
 
   - title: galleries
     entries:
-      - title: example page
-        url: about
       - title: plants
         url: Plants
 
