@@ -12,7 +12,7 @@ category: gallery
 
 |||
 |:------------------------:|:------------------------:|
-|![](/fig_conifers/Image-4.jpg) | ![](/fig_conifers/Image-5.jpg)|
+|![](/fig_conifers/Image-5.jpg) | ![](/fig_conifers/Image-4.jpg)|
 |||
 
 |||
