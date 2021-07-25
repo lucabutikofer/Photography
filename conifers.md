@@ -20,8 +20,4 @@ category: gallery
 |![](/fig_conifers/Image-6.jpg) | ![](/fig_conifers/Image-7.jpg)|
 |||
 
-![](/fig_conifers/Image-8.jpg)
-\
-\
-\
 ![](/fig_conifers/Image-9.jpg)
