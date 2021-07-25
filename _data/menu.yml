@@ -10,6 +10,17 @@ entries:
     entries:
       - title: conifers
         url: conifers
+      - title: corwnall
+        url: cornwall
+      - title: mediterranean
+        url: mediterranean
+      - title: plants
+        url: plants
+      - title: birch
+        url: birch
+      - title: broken trees
+        url: broken trees
+        
 
 #  - title: "Site styled by <a href='https://riggraz.dev'>riggraz.dev</a>"
   
