@@ -9,7 +9,7 @@ entries:
   - title: galleries
     entries:
       - title: conifers
-        url: _galleries/conifers.md
+        url: _galleries/conifers
       - title: corwnall
         url: conifers
       - title: mediterranean
