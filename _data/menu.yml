@@ -9,17 +9,17 @@ entries:
   - title: galleries
     entries:
       - title: conifers
-        url: conifers
+        url: _galleries/conifers
       - title: corwnall
-        url: cornwall
+        url: _galleries/cornwall
       - title: mediterranean
-        url: mediterranean
+        url: _galleries/mediterranean
       - title: plants
-        url: plants
+        url: _galleries/plants
       - title: birch
-        url: birch
+        url: _galleries/birch
       - title: broken trees
-        url: broken trees
+        url: _galleries/broken trees
         
 
 #  - title: "Site styled by <a href='https://riggraz.dev'>riggraz.dev</a>"
