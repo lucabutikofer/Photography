@@ -14,12 +14,14 @@ entries:
         url: cornwall
       - title: mediterranean
         url: mediterranean
+      - title: field flowers
+        url: fieldFlowers
       - title: plants
         url: plants
       - title: birch
         url: birch
       - title: broken trees
-        url: broken trees
+        url: brokenTrees
         
 
 #  - title: "Site styled by <a href='https://riggraz.dev'>riggraz.dev</a>"
