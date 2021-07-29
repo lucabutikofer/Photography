@@ -6,16 +6,16 @@
     -ms-transform: translateX(-50%) translateY(-50%);
     -webkit-transform: translate(-50%,-50%);
     transform: translate(-50%,-50%);
-    max-width: 75% /* 100% */;
-    max-height: 75% /* 100% */;
+    max-width: 100%;
+    max-height: 100%;
 }
 #lightbox .img img {opacity: 0; pointer-events: none; width: auto;}
-@media screen and (min-width: 500px /* 1200px */) {
+@media screen and (min-width: 1200px) {
     #lightbox .img {
         max-width: 1200px;
     }
 }
-@media screen and (min-height: 500px /* 1200px */) {
+@media screen and (min-height: 1200px) {
     #lightbox .img {
         max-height: 1200px;
     }
