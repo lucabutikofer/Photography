@@ -2,5 +2,5 @@
 layout: page
 category: gallery
 title: conifers
-folder: /fig_conifers
+folder: fig_conifers
 ---
