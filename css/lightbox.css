@@ -15,7 +15,7 @@
         max-width: 1200px;
     }
 }
-@media screen and (min-height: 1200px) {
+@media screen and (min-height: 500px /* 1200px */) {
     #lightbox .img {
         max-height: 1200px;
     }
