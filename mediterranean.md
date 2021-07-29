@@ -1,6 +1,8 @@
 ---
 layout: page
 category: gallery
+title: mediterranean
+folder: fig_mediterranean
 ---
 
 ||||
