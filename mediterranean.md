@@ -9,4 +9,4 @@ category: gallery
 ||||
 
 
-![](/fig_mediterranean/Image-4.jpg)
+[](/fig_mediterranean/Image-4.jpg)
