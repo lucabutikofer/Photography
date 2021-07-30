@@ -1,6 +1,8 @@
 ---
 layout: page
 category: gallery
+title: field flowers
+folder: fig_fieldFlowers
 ---
 
 <!-- 
