@@ -6,8 +6,8 @@
     -ms-transform: translateX(-50%) translateY(-50%);
     -webkit-transform: translate(-50%,-50%);
     transform: translate(-50%,-50%);
-    max-width: 50%;
-    max-height: 50%;
+    max-width: 70%;
+    max-height: 70%;
 }
 #lightbox .img img {opacity: 0; pointer-events: none; width: auto;}
 @media screen and (min-width: 1200px) {
