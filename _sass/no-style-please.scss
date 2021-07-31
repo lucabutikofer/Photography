@@ -62,10 +62,10 @@ hr {
 table { width: 100%; }
 
 table, th, td {
-  // border: thin solid black;
+  border: thin solid black;
   border-collapse: collapse;
   padding: 0.4rem;
-  // position: relative;
+  position: relative;
   // left: 10%;
 }
 
@@ -93,4 +93,19 @@ img {
   max-width: 100%;
   display: block;
   margin: 0 auto;
+}
+
+/* unvisited link */
+a:link {
+  color: blue;
+}
+
+/* visited link */
+a:visited {
+  color: blue;
+}
+
+/* hovering link */
+a:hover {
+  font-style: italic;
 }
