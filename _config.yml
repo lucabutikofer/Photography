@@ -1,5 +1,5 @@
 title: photography # name of the site
-# author: Riccardo Graziosi # name of site's author
+author: Luca Bütikofer # name of site's author
 # email: riccardo.graziosi97@gmail.com # email of site's author
 # url: https://riggraz.dev # root address of the site
 baseurl: "/Photography" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
