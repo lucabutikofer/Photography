@@ -8,18 +8,18 @@ entries:
 
   - title: portfolio
     entries:
+      - title: elements
+        url: elements
       - title: winter
         url: conifers
+      - title: plants
+        url: plants
       - title: soil lab
         url: soilLab
       - title: mediterranean
         url: mediterranean
       - title: field flowers
         url: fieldFlowers
-      - title: plants
-        url: plants
-      - title: elements
-        url: elements
       - title: broken trees
         url: brokenTrees
         
