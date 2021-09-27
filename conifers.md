@@ -1,6 +1,6 @@
 ---
 layout: page
 category: gallery
-title: conifers
+title: winter
 folder: fig_conifers
 ---
