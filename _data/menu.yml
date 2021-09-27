@@ -2,9 +2,7 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: about
-    entries:
-      - title: This is how I imagine the boudary layer between ecology and photography
+  - title: how I visualise the space between ecology and photography
 
   - title: portfolio
     entries:
