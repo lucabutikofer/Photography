@@ -2,12 +2,12 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: how I visualise the space between ecology and photography
+  - title: how I view the boundary between ecology and art
     entries:
       - title: elements
         url: elements
       - title: winter
-        url: conifers
+        url: winter
       - title: plants
         url: plants
       - title: soil lab
@@ -19,7 +19,7 @@ entries:
       - title: broken trees
         url: brokenTrees
 
-  - title: back to the <a href=https://lucabutikofer.github.io>main site.</a>
+  - title: back to the <a href=https://lucabutikofer.github.io>main site</a>.
 
 
 #  - title: "Site styled by <a href='https://riggraz.dev'>riggraz.dev</a>"
