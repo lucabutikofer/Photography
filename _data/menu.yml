@@ -6,10 +6,10 @@ entries:
     entries:
       - title: elements
         url: elements
-      - title: winter
-        url: winter
       - title: plants
         url: plants
+      - title: winter
+        url: winter
       - title: soil lab
         url: soilLab
       - title: mediterranean
