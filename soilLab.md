@@ -1,7 +1,7 @@
 ---
 layout: page
 category: gallery
-title: pedogenesys
+title: pedogenesis
 folder: fig_soilLab
 ---
 
