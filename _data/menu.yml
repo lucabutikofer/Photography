@@ -10,10 +10,10 @@ entries:
         url: plants
       - title: winter
         url: winter
-      - title: pedogenesis
-        url: soilLab
       - title: mediterranean
         url: mediterranean
+      - title: pedogenesis
+        url: soilLab
       - title: field flowers
         url: fieldFlowers
       - title: birch
