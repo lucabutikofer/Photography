@@ -16,10 +16,10 @@ entries:
         url: soilLab
       - title: field flowers
         url: fieldFlowers
-      - title: birch
-        url: birch        
-      - title: broken trees
-        url: brokenTrees
+#     - title: birch
+#       url: birch        
+#     - title: broken trees
+#       url: brokenTrees
 
   - title: about
     url: about
