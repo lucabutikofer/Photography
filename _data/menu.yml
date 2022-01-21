@@ -2,7 +2,7 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: how I see the boundary between ecology and art
+  - title: How I see the boundary between ecology and art
     entries:
       - title: elements
         url: elements
@@ -21,10 +21,10 @@ entries:
 #     - title: broken trees
 #       url: brokenTrees
 
-  - title: about
-    url: about
-  - title: <a href= https://www.instagram.com/lucabutikofer/> instagram </a>
-  - title: <a href=https://lucabutikofer.github.io>root page</a>
+  - title: About
+    url: About
+  - title: <a href= https://www.instagram.com/lucabutikofer/> Instagram </a>
+  - title: <a href=https://lucabutikofer.github.io>Root page</a>
 
 
 #  - title: "Site styled by <a href='https://riggraz.dev'>riggraz.dev</a>"
