@@ -1,5 +1,6 @@
 ---
 layout: default
+folder: fig_preview
 ---
 <header>
   <h1>{{ site.title }}</h1>
@@ -8,7 +9,7 @@ layout: default
   {%-endif-%}
 </header>
 
-{% include image-gallery.html folder= fig_preview %}
+{% include image-gallery.html folder= page.folder %}
 
 {%-include menu_item.html collection=site.data.menu.entries-%}
 
